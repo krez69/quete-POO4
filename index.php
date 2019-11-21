@@ -8,6 +8,7 @@ require_once 'HighWay.php';
 require_once 'MotoWay.php';
 require_once 'PedestrianWay.php';
 require_once 'ResidentialWay.php';
+require_once 'Speedometer.php';
 
 
 
